@@ -48,6 +48,5 @@ namespace SmartCart.Core.Database
                 new IdentityRole { Name = RoleConstants.Customer, NormalizedName = RoleConstants.Customer, ConcurrencyStamp = "2" }               
             );
         }
-
     }
 }
